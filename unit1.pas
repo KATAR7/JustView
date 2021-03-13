@@ -70,7 +70,7 @@ end;
 
 procedure TForm1.MenuItem6Click(Sender: TObject);
 begin
-  ShowMessage('JustView 0.2'+#13+#13+'Simplest image viewer for Linux.'+#13+#13+'License: GNU GPL v2'+#13+'Copyright (c) KATAR 2021');
+  ShowMessage('JustView 0.2.5'+#13+#13+'Simplest image viewer.'+#13+#13+'License: GNU GPL v2'+#13+'Copyright (c) KATAR 2021');
 end;
 
 procedure TForm1.OpenPictureDialog1Close(Sender: TObject);

@@ -3,8 +3,8 @@ object Form1: TForm1
   Height = 364
   Top = 100
   Width = 495
-  Caption = 'JustView 0.2'
-  ClientHeight = 341
+  Caption = 'JustView 0.2.5'
+  ClientHeight = 344
   ClientWidth = 495
   Icon.Data = {
     BE0C00000000010001002020000001001800A80C000016000000280000002000
@@ -112,10 +112,10 @@ object Form1: TForm1
     FFFF
   }
   Menu = MainMenu1
-  LCLVersion = '2.0.6.0'
+  LCLVersion = '2.0.4.0'
   object Image1: TImage
     Left = 0
-    Height = 341
+    Height = 344
     Top = 0
     Width = 495
     Align = alClient
